@@ -2,7 +2,7 @@
 ## Contenido
 Dentro de este readme se encuentran codigos realizados en clase de python (que cree con ayuda de [Manuel Sáenz](https://github.com/manuelsaenz), no pude compartir el repositorio por que este era privado y yo no era dueño), en el repositorio tambien se encuentra una captura de la creacio nde una variable de entorno y de un perfil en Visual Studio Code.
 
-# Codigos
+# Comandos
 ## Bash
 ### Comandos
 - `pwd`: Muestra ruta actual (print working directory).
